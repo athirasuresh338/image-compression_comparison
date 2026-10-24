@@ -23,7 +23,7 @@ from src.metrics import (
 # ---------------------------------------------------------------------
 
 st.set_page_config(
-    page_title="Image Compression Studio",
+    page_title="Image Compression Comparison",
     layout="wide"
 )
 
@@ -100,7 +100,7 @@ with st.sidebar:
 # Main View & Workflow
 # ---------------------------------------------------------------------
 
-st.title("Image Compression Studio")
+st.title("Image Compression Comparison")
 st.write(
     "Explore and compare image compression techniques using **K-Means Clustering**, "
     "**Principal Component Analysis (PCA)**, and **Singular Value Decomposition (SVD)**. "

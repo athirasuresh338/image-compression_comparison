@@ -1,4 +1,4 @@
-# Image Compression Studio
+# Image Compression Comparison
 
 An interactive Streamlit application for exploring and comparing image compression techniques using **K-Means Clustering**, **Principal Component Analysis (PCA)**, and **Singular Value Decomposition (SVD)**.
 
@@ -66,7 +66,7 @@ Measures structural similarity between the original and compressed image.
 ## Project Structure
 
 ```text
-image-compression-studio/
+image-compression_comparison/
 │
 ├── app.py
 ├── requirements.txt
@@ -82,8 +82,8 @@ image-compression-studio/
 ## Run Locally
 
 ```bash
-git clone https://github.com/athirasuresh338/image-compression-studio.git
-cd image-compression-studio
+git clone https://github.com/athirasuresh338/image-compression_comparison.git
+cd image-compression_comparison
 pip install -r requirements.txt
 streamlit run app.py
 ```
