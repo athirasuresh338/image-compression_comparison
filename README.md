@@ -6,7 +6,7 @@ The application allows users to upload an image, adjust compression parameters, 
 
 ## Live Demo
 
-🔗 *Live demo link will be available once deployed to Streamlit Community Cloud.*
+🔗 [Image Compression Comparison · Streamlit](https://image-compression-comparison.streamlit.app/)
 
 ## Features
 
